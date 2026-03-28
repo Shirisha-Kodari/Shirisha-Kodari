@@ -149,7 +149,9 @@ Passionate **DevOps & AWS Cloud Engineer** with **3.2 years of experience** in i
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Shirisha-Kodari/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- <img src="https://github.com/Shirisha-Kodari/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> -->
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
