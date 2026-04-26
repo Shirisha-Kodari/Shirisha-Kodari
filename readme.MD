@@ -134,9 +134,9 @@ Passionate **DevOps & AWS Cloud Engineer** with **3.2 years of experience** in i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEDASANI-CHARAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MEDASANI-CHARAN&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDASANI-CHARAN&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shirisha-Kodari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shirisha-Kodari&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirisha-Kodari&theme=dark&hide_border=false&layout=compact" />
 </div>
 
 ---
